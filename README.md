@@ -7,4 +7,4 @@ Updates : Better optimized, it works without tiring the server too much
 
 version : Beta v2
 
-Contact me via Discord for updates: Deus#1335
+Contact me via Discord for updates: deuschef
